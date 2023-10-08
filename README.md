@@ -89,7 +89,13 @@ coherence process could combine these 4 quadrants into a new understanding of th
 a discrete case convolutional neural network.
 </details>
 
-You'll notice that problem decomposition isn't described in this process, this is because the process of 'selecting' an answer can itself
+Additionally, you might notice that 'breaking down' a problem isn't mentioned, this is because the described process automatically
+performs this operation.
+
+<details>
+<summary>Problem Decomposition</summary>
+<br>
+This is because the process of 'selecting' an answer can itself
 be a coherence process. To break down a problem, first attempt to solve the problem with the initially recalled information, this creates
 groupings that target different aspects of the problem (each aspect of the problem would appear unrelated to each other forming coherence groups) 
 these would each produce differing (probably incorrect) answers. Then, the set of answers is cohered, if an answer successfully tackled its aspect
@@ -97,3 +103,4 @@ of the problem, then it is either left untouched as its own coherence group, or 
 
 The parts of the problem that were too hard to tackle in one go will undergo verification, to verify a solution for part of a problem you
 form coherence groups, and thus answers to parts of the part of the problem. This is the same as problem decomposition.
+</details>
