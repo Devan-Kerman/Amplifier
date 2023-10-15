@@ -1,13 +1,12 @@
-import asyncio
-import random
-import time
-from dataclasses import dataclass, astuple
-from typing import List, Tuple, Union, Coroutine
+from typing import List, Tuple, Union, Coroutine, Any, Dict
 
 import openai
+import torch
 from openai import OpenAIError
 
 from src.util.types import Query, PartialResult
+
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
 
 class BatchDriver:
@@ -16,6 +15,38 @@ class BatchDriver:
 
 	def name(self) -> str:
 		pass
+
+
+class HuggingFaceDriver(BatchDriver):
+	model: Any
+	tokenizer: Any
+
+	def __init__(self, model, tokenizer):
+		self.model = model
+		self.tokenizer = tokenizer
+
+	def run_batch(self, prompts: List[Query]) -> List[Union[str, PartialResult]]:
+		messages: List[str] = []
+
+		for system, prompt, assist in prompts:
+			messages.append(self.format_message(system, prompt, assist))
+
+		encodeds = self.tokenizer(messages, padding=True, return_tensors="pt").to(device)
+
+		with torch.no_grad():
+			generated_ids = self.model.generate(**encodeds)
+
+		texts = self.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
+		return texts
+
+	def format_message(self, system: str, prompt: str, assist: str) -> str:
+		pass
+
+
+class MistralInstructDriver(HuggingFaceDriver):
+	def format_message(self, system, prompt, assist):
+		return f"[INST] {system}\n{prompt} [/INST]\n{assist if assist else ''}"
+
 
 class OpenAIDriver(BatchDriver):
 	api_key: str
@@ -46,8 +77,8 @@ class OpenAIDriver(BatchDriver):
 				break
 			next_todo = []
 			async_queue: List[Coroutine] = []
-			for i, (system, prompt) in todo:
-				async_queue.append(self.make_query(prompt, system))
+			for i, (system, prompt, assist) in todo:
+				async_queue.append(self.make_query(prompt, system, assist))
 
 			for pair, completion in zip(todo, async_queue):
 				i, prompt = pair
@@ -66,26 +97,30 @@ class OpenAIDriver(BatchDriver):
 	def decode_response(self, completed):
 		pass
 
-	def make_query(self, prompt, system):
+	def make_query(self, prompt, system, assist):
 		pass
+
 
 class ChatOpenAIDriver(OpenAIDriver):
 	def __init__(self, api_key: str, model='gpt-3.5-turbo', max_tries=1, **kwargs):
 		super().__init__(api_key, model, max_tries, **kwargs)
 
-	def make_query(self, prompt, system):
+	def make_query(self, prompt, system, assist):
 		return openai.ChatCompletion.acreate(
 			model=self.model,
 			messages=[
-				{
-					"role": "system",
-					"content": system
-				},
-				{
-					"role": "user",
-					"content": prompt
-				}
-			],
+						 {
+							 "role": "system",
+							 "content": system
+						 },
+						 {
+							 "role": "user",
+							 "content": prompt
+						 }
+					 ] + [{
+				"role": "assistant",
+				"content": assist
+			}] if assist else [],
 			temperature=self.temperature,
 			max_tokens=self.max_tokens,
 			top_p=self.top_p,
@@ -108,14 +143,15 @@ class ChatOpenAIDriver(OpenAIDriver):
 	def name(self) -> str:
 		return f"OpenAI Chat Completion Model '{self.model}'"
 
+
 class InstructOpenAIDriver(OpenAIDriver):
 	def __init__(self, api_key: str, model='gpt-3.5-turbo-instruct', max_tries=1, **kwargs):
 		super().__init__(api_key, model, max_tries, **kwargs)
 
-	def make_query(self, prompt, system):
+	def make_query(self, prompt, system, assist):
 		return openai.Completion.acreate(
 			model=self.model,
-			prompt=f"{system}\n\n{prompt}\n\n",
+			prompt=f"{system}\n{prompt}\n\n{assist if assist else ''}",
 			temperature=self.temperature,
 			max_tokens=self.max_tokens,
 			top_p=self.top_p,

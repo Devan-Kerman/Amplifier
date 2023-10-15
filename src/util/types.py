@@ -9,6 +9,7 @@ class TupleClass:
 class Query(TupleClass):
 	system: str
 	prompt: str
+	assistant_start: str
 
 @dataclass(frozen=True)
 class PartialResult(TupleClass):
