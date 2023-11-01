@@ -7,9 +7,9 @@ class TupleClass:
 
 @dataclass(frozen=True)
 class Query(TupleClass):
-	system: str
-	prompt: str
-	assistant_start: str
+	system: str = None
+	prompt: str = None
+	assistant_start: str = None
 
 @dataclass(frozen=True)
 class PartialResult(TupleClass):

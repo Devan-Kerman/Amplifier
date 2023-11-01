@@ -3,11 +3,11 @@ from typing import List, Tuple, Union, Coroutine, Any, Dict
 import openai
 import torch
 from openai import OpenAIError
+from transformers import pipeline, Pipeline
 
 from src.util.types import Query, PartialResult
 
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
-
 
 class BatchDriver:
 	def run_batch(self, prompts: List[Query]) -> List[Union[str, PartialResult]]:
@@ -16,6 +16,39 @@ class BatchDriver:
 	def name(self) -> str:
 		pass
 
+
+class HuggingFacePipelineDriver(BatchDriver):
+	pipe: Pipeline
+
+	def __init__(self, pipeline: Pipeline):
+		self.pipe = pipeline
+
+	def run_batch(self, prompts: List[Query]) -> List[Union[str, PartialResult]]:
+		tokenized: List[str] = []
+		for system, prompt, assist in prompts:
+			tokenized += [
+				self.pipe.tokenizer.apply_chat_template(
+					([{
+						"role": "system",
+						"content": system
+					}] if system else []) +
+					[
+						{
+							"role": "user",
+							"content": prompt
+						}
+					] +
+					([{
+						"role": "assistant",
+						"content": assist
+					}] if assist else []),
+					tokenize=False, add_generation_prompt=True)
+			]
+
+		outputs: List[str] = []
+		for output in self.pipe(tokenized, max_new_tokens=128, do_sample=True):
+			outputs += [output[0]['generated_text']]
+		return outputs
 
 class HuggingFaceDriver(BatchDriver):
 	model: Any
@@ -34,7 +67,7 @@ class HuggingFaceDriver(BatchDriver):
 		encodeds = self.tokenizer(messages, padding=True, return_tensors="pt").to(device)
 
 		with torch.no_grad():
-			generated_ids = self.model.generate(**encodeds)
+			generated_ids = self.model.generate(**encodeds, max_new_tokens=1000, do_sample=True)
 
 		texts = self.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
 		return texts
@@ -45,7 +78,13 @@ class HuggingFaceDriver(BatchDriver):
 
 class MistralInstructDriver(HuggingFaceDriver):
 	def format_message(self, system, prompt, assist):
-		return f"[INST] {system}\n{prompt} [/INST]\n{assist if assist else ''}"
+		str = "[INST] "
+		if system:
+			str += system + "\n"
+		str += prompt + " [/INST]\n"
+		if assist:
+			str += assist
+		return str
 
 
 class OpenAIDriver(BatchDriver):
@@ -108,19 +147,21 @@ class ChatOpenAIDriver(OpenAIDriver):
 	def make_query(self, prompt, system, assist):
 		return openai.ChatCompletion.acreate(
 			model=self.model,
-			messages=[
-						 {
-							 "role": "system",
-							 "content": system
-						 },
-						 {
-							 "role": "user",
-							 "content": prompt
-						 }
-					 ] + [{
+			messages=
+			([{
+				"role": "system",
+				"content": system
+			}] if system else []) +
+			[
+				{
+					"role": "user",
+					"content": prompt
+				}
+			] +
+			([{
 				"role": "assistant",
 				"content": assist
-			}] if assist else [],
+			}] if assist else []),
 			temperature=self.temperature,
 			max_tokens=self.max_tokens,
 			top_p=self.top_p,

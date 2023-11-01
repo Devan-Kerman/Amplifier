@@ -54,18 +54,17 @@ if return_code != 0:
 	print("Failed to install requirements.")
 	sys.exit(1)
 
-# print("Installing JAX...")
-#install_command = f"{activate_command} && pip install --upgrade jax[cuda12_pip] -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html"
-#return_code = run_command(install_command)
-#if return_code != 0:
-#	print("Failed to install requirements.")
-#	sys.exit(1)
+print("Installing Pytorch...")
+install_command = f"{activate_command} && pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121"
+return_code = run_command(install_command)
+if return_code != 0:
+	print("Failed to install requirements.")
+	sys.exit(1)
 
 print("Installing Additional Libraries...")
 with open("req.txt", "w") as f:
 	# f.write("clu\n")
 	f.write("matplotlib\n")
-	f.write("torch\n")
 	# f.write("flax\n")
 	f.write("datasets\n")
 	f.write("joblib\n")
