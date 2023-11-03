@@ -1,0 +1,422 @@
+{{Short description|American science fiction magazine}}
+{{Distinguish|Asimov on Science Fiction{{!}}''Asimov on Science Fiction''}}
+{{Featured article}}
+{{Use mdy dates|date=June 2012}}
+{{Infobox magazine
+| title = Asimov's Science Fiction
+| image_file = IASFM.jpg
+| image_alt = Magazine cover with a dog-like face visible through the helmet of a spacesuit on a surface like the Moon
+| image_caption = Cover for the Mid-December 1994 issue of ''Asimov's Science Fiction''
+| category = [[Science fiction]]
+| firstdate = Spring 1977
+| website = {{URL|http://www.asimovs.com/}}
+| issn = 1065-2698
+}}
+'''''Asimov's Science Fiction''''' is an American [[science fiction]] magazine edited by [[Sheila Williams]] and published by [[Dell Magazines]], which is owned by [[Penny Press]]. It was launched as a quarterly by [[Davis Publications]] in 1977, after obtaining [[Isaac Asimov]]'s consent for the use of his name.  It was originally titled '''''Isaac Asimov's Science Fiction Magazine''''', and was quickly successful, reaching a circulation of over 100,000 within a year, and switching to monthly publication within a couple of years.  [[George H. Scithers]], the first editor, published many new writers who went on to be successful in the genre.  Scithers favored traditional stories without sex or obscenity; along with frequent humorous stories, this gave ''Asimov's'' a reputation for printing juvenile fiction, despite its success.  Asimov was not part of the editorial team, but wrote editorials for the magazine.
+
+Scithers was fired in 1982, and his replacement, Kathleen Moloney, only lasted a year.  [[Shawna McCarthy]] took over as editor in 1983, and quickly relaxed the strictures on the kind of fiction ''Asimov's'' was willing to publish.  "[[Her Furry Face]]", by [[Leigh Kennedy]], with a plot that involved sex with an intelligent [[orangutan]], scandalized some readers, as did other stories involving sex or violence. Asimov defended McCarthy's choices in an editorial, and "Her Furry Face" was nominated for a [[Nebula Award]].  McCarthy transformed the magazine into a leading market for science fiction writers, and more award-winning stories appeared, including fiction by [[Frederik Pohl]], [[Robert Silverberg]], [[Lucius Shepard]], and [[John Varley (author)|John Varley]].
+
+[[Gardner Dozois]] took over as editor in 1985 and stayed for nearly twenty years.  ''Asimov's'' continued to be a prestigious market and several award-winning stories appeared during Dozois's tenure, including Lucius Shepard's "R&R"; [[Orson Scott Card]]'s "Hatrack River"; [[Pat Murphy (writer)|Pat Murphy]]'s "[[Rachel in Love]]"; [[Suzy McKee Charnas]]'s "[[Boobs (short story)|Boobs]]"; and [[Terry Bisson]]'s "[[Bears Discover Fire]]".  [[Mike Ashley (writer)|Mike Ashley]], a historian of [[science fiction magazine]]s, describes Dozois's time at ''Asimov's'' as "one of the greatest of all editorial careers".<ref name=":6" /> Dozois was succeeded by Sheila Williams in 2004.
+
+Davis sold the magazine to [[Dell Magazines]] in 1992, and Dell was acquired by Penny Press in 1996. ''Asimov's'' switched to bimonthly publication in 2017. Circulation declined steadily over the life of the magazine and as of 2020 it was below 20,000, more than half of that coming from online subscriptions.
+
+== Publication history ==
+In February 1976, [[Isaac Asimov]] visited the offices of [[Davis Publications]] in New York to drop off a story he was submitting to ''[[Ellery Queen's Mystery Magazine]]''.<ref name=":0" /><ref name=":13" />  Joel Davis, the publisher, had recently acquired ''[[Alfred Hitchcock's Mystery Magazine]]'', and was interested in adding new fiction magazines to his list.  One of his employees had gone to a [[Star Trek]] convention with their children, and had told Davis how much the children had enjoyed it.  This prompted Davis to talk to Asimov about a new science fiction magazine,<ref name=":0">Ashley (2007), pp. 327–328.</ref><ref name=":1">Asimov (1980), pp. 736–737.</ref>{{#tag:ref|Asimov visited Davis on either February 26 or February 27.<ref name=":0" />|group=note}} and Davis asked Asimov if he could use his name as part of the magazine's title.  Asimov was concerned about the potential impact on two of the major science fiction magazines of the day, ''[[Analog Science Fiction and Fact|Analog Science Fiction/Science Fact]]'', and ''[[The Magazine of Fantasy & Science Fiction]]'' (''F&SF''), both of which were edited by friends of his, [[Ben Bova]] and Ed Ferman.  Davis argued that a new magazine would be good for the field, and Bova and Ferman both told Asimov that they agreed with Davis.  Asimov agreed to go ahead with the plan on condition that he did not act as editor.<ref name=":0" /><ref name=":1" />  Asimov wrote a regular science column for ''F&SF'', which he continued, but Davis asked him not to submit fiction to competing magazines.<ref name=":1" />{{#tag:ref|In the event Asimov continued to publish science fiction stories elsewhere.<ref>{{Cite web |last=Stephensen-Payne |first=Phil |date=August 22, 2023 |title=Index by Date: Page 43 |url=http://www.philsp.com/homeville/SFI/i00043.htm#TOP |url-status=dead |archive-url=https://web.archive.org/web/20230823011239/http://www.philsp.com/homeville/SFI/i00043.htm |archive-date=August 23, 2023 |access-date=August 22, 2023 |website=Galactic Central}}</ref>|group=note}}
+
+{| class="wikitable collapsible collapsed" style="max-width:500px; font-size: 10pt; line-height: 11pt; margin-left: 2em; text-align: center; float: right"
+! colspan="13" | Issue data for 1977 to 1980<ref name=":11">{{Cite web |last=Stephensen-Payne |first=Phil |date=July 4, 2023 |title=Index by Magazine Issue: Page 13 |url=http://www.philsp.com/homeville/SFI/j00013.htm#A54 |archive-url=https://web.archive.org/web/20230704161816/http://www.philsp.com/homeville/SFI/j00013.htm |archive-date=July 4, 2023 |access-date=July 4, 2023 |website=Galactic Central}}</ref>
+|-
+! !!colspan="3"| Spring !!colspan="3"| Summer !!colspan="3"| Fall!!colspan="3"| Winter
+|-
+! !!Jan !! Feb !!Mar !!Apr !!May !!Jun !!Jul !!Aug !!Sep !!Oct !!Nov !!Dec
+|-
+!1977
+|colspan="3"|<u>1/1</u>||colspan="3"|<u>1/2</u>||colspan="3"|<u>1/3</u>||colspan="3"|<u>1/4</u>
+|-
+!1978
+|colspan="2"|2/1||colspan="2"|2/2||colspan="2"|2/3||colspan="2"|2/4||colspan="2"|2/5||colspan="2"|2/6
+|-
+!1979
+|3/1 || 3/2 || 3/3 || 3/4 || 3/5 || 3/6 || 3/7 || 3/8 || 3/9 || 3/10 || 3/11 || 3/12
+|-
+!1980
+|4/1 || 4/2 || 4/3 || 4/4 || 4/5 || 4/6 || 4/7 || 4/8 || 4/9 || 4/10 || 4/11 || 4/12
+|-
+|colspan="13" style="font-size: 8pt; text-align:left"|Issues of ''Isaac Asimov's Science Fiction Magazine'', showing volume/issue number. Underlining indicates that an issue was titled as a quarterly (e.g. "Spring 1977") rather than as a monthly. George Scithers was editor throughout.
+|}
+George Scithers was soon hired to fill the editorial role, with [[Gardner Dozois]] as associate editor;<ref name=":0" /> Dozois only stayed a year, as he and Scithers did not agree on what kind of stories should be accepted.<ref name=":2">Ashley (2007), pp. 335–337.</ref>  Davis initially committed to three quarterly issues,<ref name=":2" /> the first of which was dated Spring 1977, and appeared on December 16, 1976.<ref name=":0" />  The magazine was immediately successful, circulation reaching 108,843 for the first year, a little higher than ''Analog''<nowiki/>'s.  Circulation was helped by the distribution network that Davis Publications already had access to for its existing magazines, with robust [[Newsagent's shop|newsstand]] distribution.  Paperback anthologies of stories from the magazine were assembled, starting at the end of 1977; these were profitable and also attracted new readers.  The magazine's success persuaded Davis to move to a bimonthly schedule for 1978, and to monthly starting with the January 1979 issue.<ref name=":2" />  Davis decided to launch a second magazine, ''[[Asimov's SF Adventure Magazine]]'', targeted to a younger audience.  The first issue was dated Fall 1978.  Four quarterly issues appeared, but sales were weak, and a planned fifth issue never appeared.<ref>Ashley (2007), pp. 337–340.</ref>
+
+{| class="wikitable collapsible collapsed" style="max-width:500px; font-size: 10pt; line-height: 11pt; margin-right: 2em; float: left"
+! colspan="4" | Issue data for 1981 and 1982<ref name=":11" />
+|-
+! !!Issue dates !!Volume<br>numbering !!Number<br>of issues
+|-
+!1981
+|Four-weekly intervals from January 19 through December 21 ||5/1 to 5/13 ||13
+|-
+!1982
+|Four-weekly intervals from January 18 through April 14, then May to December, with an additional Mid-December issue. ||6/1 to 6/13 ||13
+|-
+| colspan="4" |Issue data for 1981 and 1982.  George Scithers was editor until the February 15, 1982 issue; Kathleen Moloney was editor for the rest of 1982.
+|}
+Davis moved all four of his fiction magazines to a four-weekly schedule in 1981, meaning there were thirteen issues per year.<ref name=":3" /><ref name=":4">{{Cite web |last=Stephensen-Payne |first=Phil |date=January 10, 2023 |title=(Isaac) Asimov's Science Fiction Magazine |url=http://www.philsp.com/mags/asimovs.html |archive-url=https://web.archive.org/web/20220816075436/http://www.philsp.com/mags/asimovs.html |archive-date=August 16, 2022 |access-date=January 10, 2023 |website=Galactic Central}}</ref>  The change took effect at ''Asimov's'' with the January issue, which was dated January 19, 1981.  This led to newsstand vendors removing the magazine more quickly, since the date implied that it was a weekly magazine.  The cover date was changed back to the current month starting with the April 1982 issue, but the new schedule remained in place, with "Mid-December" issues for more than a decade thereafter.<ref name=":02">Ashley (2016), pp. 58–59.</ref>
+
+Davis launched two more magazines in 1981: ''[[Crime Digest]]'' and ''[[Science Fiction Digest]]''; these carried book excerpts and publishing news.  Scithers had been announced as the editor of ''Science Fiction Digest'', but when it was launched [[Shawna McCarthy]] was given the editorial role.  This may have been because Scithers was based in Philadelphia, with a local team of [[Publisher's reader|first readers]] to help read the incoming manuscripts, and Davis wanted an editor who was in the New York office five days a week.  According to Asimov, Scithers and Davis never got along very well.  Scithers's refusal to move to New York made matters worse, and there were other sources of tension: Davis appointed Carol Gross as executive director in charge of marketing and production, and Gross instigated a redesign of the magazine and took control of the art department away from Scithers.  In December 1981, Scithers was fired.<ref name=":3">Ashley (2016), pp. 20–22.</ref>
+
+Scithers's replacement was Kathleen Moloney, who was hired away from [[Bantam Books|Bantam]] where she had been a book editor.  At first Moloney edited the stories heavily without consulting the authors until the galley proofs were printed, against McCarthy's advice.  After pushback from the authors, Moloney turned over manuscript editing to McCarthy.  Moloney was hired away by [[Times Books]] later that year, and replaced by McCarthy, who was told that Asimov had insisted that she become the next editor if the magazine wanted to keep his name.  Her first issue was dated January 1983.<ref name=":5">Ashley (2016), pp. 22–26.</ref>  She was succeeded in May 1985 by Gardner Dozois, though he was not credited on the masthead until January 1986.<ref name=":6">Ashley (2016), p. 49.</ref>
+
+{| class="wikitable collapsible collapsed" style="max-width:650px; font-size: 10pt; line-height: 11pt; margin-left: 2em; text-align: center; float: right"
+|-
+! colspan="14" | Issue data for 1983 to 2023<ref name=":11" /><ref name=":12">{{Cite web |last=Stephensen-Payne |first=Phil |date=July 4, 2023 |title=Index by Magazine Issue: Page 14 |url=http://www.philsp.com/homeville/SFI/j00014.htm#TOP |archive-url=https://web.archive.org/web/20230704162232/http://www.philsp.com/homeville/SFI/j00014.htm |archive-date=July 4, 2023 |access-date=July 4, 2023 |website=Galactic Central}}</ref>
+|-
+! !!Jan !! Feb !!Mar !!Apr !!May !!Jun !!Jul !!Aug !!Sep !!Oct !!Nov !!Dec !!Mid-Dec
+|-
+!1983
+| style="background:#cff;"|7/1 || style="background:#cff;" |7/2|| style="background:#cff;" |7/3|| style="background:#cff;" |7/4|| style="background:#cff;" |7/5|| style="background:#cff;" |7/6|| style="background:#cff;" |7/7|| style="background:#cff;" |7/8|| style="background:#cff;" |7/9|| style="background:#cff;" |7/10|| style="background:#cff;" |7/11|| style="background:#cff;" |7/12|| style="background:#cff;" |7/13
+|-
+!1984
+| style="background:#cff;"|7/1 || style="background:#cff;" |7/2|| style="background:#cff;" |8/3|| style="background:#cff;" |8/4|| style="background:#cff;" |8/5|| style="background:#cff;" |8/6|| style="background:#cff;" |8/7|| style="background:#cff;" |8/8|| style="background:#cff;" |8/9|| style="background:#cff;" |8/10|| style="background:#cff;" |8/11|| style="background:#cff;" |8/12|| style="background:#cff;" |8/13
+|-
+!1985
+| style="background:#cff;"|9/1 || style="background:#cff;" |9/2|| style="background:#cff;" |9/3|| style="background:#cff;" |9/4|| style="background:#cff;" |9/5|| style="background:#cff;" |9/6|| style="background:#cff;" |9/7|| style="background:#cff;" |9/8|| style="background:#cff;" |9/9|| style="background:#cff;" |9/10|| style="background:#cff;" |9/11|| style="background:#cff;" |9/12|| style="background:#cff;" |9/13
+|-
+!1986
+| style="background:#c3f9bf;"|10/1 || style="background:#c3f9bf;" |10/2|| style="background:#c3f9bf;" |10/3|| style="background:#c3f9bf;" |10/4|| style="background:#c3f9bf;" |10/5|| style="background:#c3f9bf;" |10/6|| style="background:#c3f9bf;" |10/7|| style="background:#c3f9bf;" |10/8|| style="background:#c3f9bf;" |10/9|| style="background:#c3f9bf;" |10/10|| style="background:#c3f9bf;" |10/11|| style="background:#c3f9bf;" |10/12|| style="background:#c3f9bf;" |10/13
+|-
+!1987
+| style="background:#c3f9bf;"|11/1 || style="background:#c3f9bf;" |11/2|| style="background:#c3f9bf;" |11/3|| style="background:#c3f9bf;" |11/4|| style="background:#c3f9bf;" |11/5|| style="background:#c3f9bf;" |11/6|| style="background:#c3f9bf;" |11/7|| style="background:#c3f9bf;" |11/8|| style="background:#c3f9bf;" |11/9|| style="background:#c3f9bf;" |11/10|| style="background:#c3f9bf;" |11/11|| style="background:#c3f9bf;" |11/12|| style="background:#c3f9bf;" |11/13
+|-
+!1988
+| style="background:#c3f9bf;"|12/1 || style="background:#c3f9bf;" |12/2|| style="background:#c3f9bf;" |12/3|| style="background:#c3f9bf;" |12/4|| style="background:#c3f9bf;" |12/5|| style="background:#c3f9bf;" |12/6|| style="background:#c3f9bf;" |12/7|| style="background:#c3f9bf;" |12/8|| style="background:#c3f9bf;" |12/9|| style="background:#c3f9bf;" |12/10|| style="background:#c3f9bf;" |12/11|| style="background:#c3f9bf;" |12/12|| style="background:#c3f9bf;" |12/13
+|-
+!1989
+| style="background:#c3f9bf;"|13/1|| style="background:#c3f9bf;" |13/2|| style="background:#c3f9bf;" |13/3|| style="background:#c3f9bf;" |13/4|| style="background:#c3f9bf;" |13/5|| style="background:#c3f9bf;" |13/6|| style="background:#c3f9bf;" |13/7|| style="background:#c3f9bf;" |13/8|| style="background:#c3f9bf;" |13/9|| style="background:#c3f9bf;" |13/10|| style="background:#c3f9bf;" |13/11|| style="background:#c3f9bf;" |13/12|| style="background:#c3f9bf;" |13/13
+|-
+!1990
+| style="background:#c3f9bf;"|14/1 || style="background:#c3f9bf;" |14/2|| style="background:#c3f9bf;" |14/3|| style="background:#c3f9bf;" |14/4|| style="background:#c3f9bf;" |14/5|| style="background:#c3f9bf;" |14/6|| style="background:#c3f9bf;" |14/7|| style="background:#c3f9bf;" |14/8|| style="background:#c3f9bf;" |14/9|| style="background:#c3f9bf;" |14/10|| style="background:#c3f9bf;" |14/11 & 12|| style="background:#c3f9bf;" |14/13|| style="background:#c3f9bf;" |14/14
+|-
+!1991
+| style="background:#c3f9bf;"|15/1|| style="background:#c3f9bf;" |15/2|| style="background:#c3f9bf;" |15/3|| style="background:#c3f9bf;" |15/4 & 5|| style="background:#c3f9bf;" |15/6|| style="background:#c3f9bf;" |15/7|| style="background:#c3f9bf;" |15/8|| style="background:#c3f9bf;" |15/9|| style="background:#c3f9bf;" |15/10|| style="background:#c3f9bf;" |15/11|| style="background:#c3f9bf;" |15/12 & 13|| style="background:#c3f9bf;" |15/14|| style="background:#c3f9bf;" |15/15
+|-
+!1992
+| style="background:#c3f9bf;"|16/1|| style="background:#c3f9bf;" |16/2|| style="background:#c3f9bf;" |16/3|| style="background:#c3f9bf;" |16/4 & 5|| style="background:#c3f9bf;" |16/6|| style="background:#c3f9bf;" |16/7|| style="background:#c3f9bf;" |16/8|| style="background:#c3f9bf;" |16/9|| style="background:#c3f9bf;" |16/10|| style="background:#c3f9bf;" |16/11|| style="background:#c3f9bf;" |16/12 & 13|| style="background:#c3f9bf;" |16/14|| style="background:#c3f9bf;" |16/15
+|-
+!1993
+| style="background:#c3f9bf;"|17/1|| style="background:#c3f9bf;" |17/2|| style="background:#c3f9bf;" |17/3|| style="background:#c3f9bf;" |17/4 & 5|| style="background:#c3f9bf;" |17/6|| style="background:#c3f9bf;" |17/7|| style="background:#c3f9bf;" |17/8|| style="background:#c3f9bf;" |17/9|| style="background:#c3f9bf;" |17/10|| style="background:#c3f9bf;" |17/11|| style="background:#c3f9bf;" |17/12 & 13|| style="background:#c3f9bf;" |17/14|| style="background:#c3f9bf;" |17/15
+|-
+!1994
+| style="background:#c3f9bf;"|18/1|| style="background:#c3f9bf;" |18/2|| style="background:#c3f9bf;" |18/|| style="background:#c3f9bf;" |18/4 & 5|| style="background:#c3f9bf;" |18/6|| style="background:#c3f9bf;" |18/7|| style="background:#c3f9bf;" |18/8|| style="background:#c3f9bf;" |18/9|| style="background:#c3f9bf;" |18/10|| style="background:#c3f9bf;" |18/11|| style="background:#c3f9bf;" |18/12 & 13|| style="background:#c3f9bf;" |18/14|| style="background:#c3f9bf;" |18/15
+|-
+!1995
+| style="background:#c3f9bf;"|19/1|| style="background:#c3f9bf;" |19/2|| style="background:#c3f9bf;" |19/3|| style="background:#c3f9bf;" |19/4 & 5|| style="background:#c3f9bf;" |19/6|| style="background:#c3f9bf;" |19/7|| style="background:#c3f9bf;" |19/8|| style="background:#c3f9bf;" |19/9|| style="background:#c3f9bf;" |19/10|| style="background:#c3f9bf;" |19/11|| style="background:#c3f9bf;" |19/12 & 13|| style="background:#c3f9bf;" |19/14|| style="background:#c3f9bf;" |19/15
+|-
+!1996
+| style="background:#c3f9bf;"|20/1|| style="background:#c3f9bf;" |20/2|| style="background:#c3f9bf;" |20/3|| style="background:#c3f9bf;" |20/4|| style="background:#c3f9bf;" |20/5|| style="background:#c3f9bf;" |20/6|| style="background:#c3f9bf;" |20/7|| style="background:#c3f9bf;" |20/8|| style="background:#c3f9bf;" |20/9|| colspan="2" style="background:#c3f9bf;" |20/10 & 11|| style="background:#c3f9bf;" |20/12 ||
+|-
+!1997
+| style="background:#c3f9bf;"|21/1|| style="background:#c3f9bf;" |21/2|| style="background:#c3f9bf;" |21/3|| style="background:#c3f9bf;" |21/4|| style="background:#c3f9bf;" |21/5|| style="background:#c3f9bf;" |21/6|| colspan="2" style="background:#c3f9bf;" |21/7 & 8|| style="background:#c3f9bf;" |21/9|| colspan="2" style="background:#c3f9bf;" |21/10 & 11|| style="background:#c3f9bf;" |21/12 ||
+|-
+!1998
+| style="background:#c3f9bf;"|22/1|| style="background:#c3f9bf;" |22/2|| style="background:#c3f9bf;" |22/3|| style="background:#c3f9bf;" |22/4|| style="background:#c3f9bf;" |22/5|| style="background:#c3f9bf;" |22/6|| colspan="2" style="background:#c3f9bf;" |22/7 & 8|| style="background:#c3f9bf;" |22/9|| colspan="2" style="background:#c3f9bf;" |22/10 & 11|| style="background:#c3f9bf;" |22/12 ||
+|-
+!1999
+| style="background:#c3f9bf;"|23/1|| style="background:#c3f9bf;" |23/2|| style="background:#c3f9bf;" |23/3|| style="background:#c3f9bf;" |23/4|| style="background:#c3f9bf;" |23/5|| style="background:#c3f9bf;" |23/6|| colspan="2" style="background:#c3f9bf;" |23/7 & 8|| style="background:#c3f9bf;" |23/9|| colspan="2" style="background:#c3f9bf;" |23/10 & 11|| style="background:#c3f9bf;" |23/12 ||
+|-
+!2000
+| style="background:#c3f9bf;"|24/1|| style="background:#c3f9bf;" |24/2|| style="background:#c3f9bf;" |24/3|| style="background:#c3f9bf;" |24/4|| style="background:#c3f9bf;" |24/5|| style="background:#c3f9bf;" |24/6|| colspan="2" style="background:#c3f9bf;" |24/7 & 8|| style="background:#c3f9bf;" |24/9|| colspan="2" style="background:#c3f9bf;" |24/10 & 11|| style="background:#c3f9bf;" |24/12 ||
+|-
+!2001
+| style="background:#c3f9bf;"|25/1|| style="background:#c3f9bf;" |25/2|| style="background:#c3f9bf;" |25/3|| style="background:#c3f9bf;" |25/4|| style="background:#c3f9bf;" |25/5|| style="background:#c3f9bf;" |25/6|| colspan="2" style="background:#c3f9bf;" |25/7 & 8|| style="background:#c3f9bf;" |25/9|| colspan="2" style="background:#c3f9bf;" |25/10 & 11|| style="background:#c3f9bf;" |25/12 ||
+|-
+!2002
+| style="background:#c3f9bf;"|26/1|| style="background:#c3f9bf;" |26/2|| style="background:#c3f9bf;" |26/3|| style="background:#c3f9bf;" |26/4|| style="background:#c3f9bf;" |26/5|| style="background:#c3f9bf;" |26/6|| colspan="2" style="background:#c3f9bf;" |26/7 & 8|| style="background:#c3f9bf;" |26/9|| colspan="2" style="background:#c3f9bf;" |26/10 & 11|| style="background:#c3f9bf;" |26/12 ||
+|-
+!2003
+| style="background:#c3f9bf;"|27/1|| style="background:#c3f9bf;" |27/2|| style="background:#c3f9bf;" |27/3|| style="background:#c3f9bf;" |27/4|| style="background:#c3f9bf;" |27/5|| style="background:#c3f9bf;" |27/6|| colspan="2" style="background:#c3f9bf;" |27/7 & 8|| style="background:#c3f9bf;" |27/9|| colspan="2" style="background:#c3f9bf;" |27/10 & 11|| style="background:#c3f9bf;" |27/12 ||
+|-
+!2004
+| colspan="2" style="background:#c3f9bf;"|28/1|| style="background:#c3f9bf;" |28/2|| colspan="2" style="background:#c3f9bf;" |28/3|| style="background:#c3f9bf;" |28/6|| colspan="2" style="background:#c3f9bf;" |28/7 & 8|| style="background:#c3f9bf;" |28/9|| colspan="2" style="background:#c3f9bf;" |28/10 & 11|| style="background:#ffff99;" |28/12 ||
+|-
+!2005
+| colspan="2" style="background:#ffff99;"|29/1|| style="background:#ffff99;" |29/2|| colspan="2" style="background:#ffff99;" |29/3|| style="background:#ffff99;" |29/6|| colspan="2" style="background:#ffff99;" |29/7 & 8|| style="background:#ffff99;" |29/9|| colspan="2" style="background:#ffff99;" |29/10 & 11|| style="background:#ffff99;" |29/12 ||
+|-
+!2006
+| colspan="2" style="background:#ffff99;"|30/1|| style="background:#ffff99;" |30/2|| colspan="2" style="background:#ffff99;" |30/3|| style="background:#ffff99;" |30/6|| colspan="2" style="background:#ffff99;" |30/7 & 8|| style="background:#ffff99;" |30/9|| colspan="2" style="background:#ffff99;" |30/10 & 11|| style="background:#ffff99;" |30/12 ||
+|-
+!2007
+| colspan="2" style="background:#ffff99;"|31/1|| style="background:#ffff99;" |31/2|| colspan="2" style="background:#ffff99;" |31/3|| style="background:#ffff99;" |31/6|| colspan="2" style="background:#ffff99;" |31/7 & 8|| style="background:#ffff99;" |31/9|| colspan="2" style="background:#ffff99;" |31/10 & 11|| style="background:#ffff99;" |31/12 ||
+|-
+!2008
+| colspan="2" style="background:#ffff99;"|32/1|| style="background:#ffff99;" |32/2|| colspan="2" style="background:#ffff99;" |32/3|| style="background:#ffff99;" |32/6|| colspan="2" style="background:#ffff99;" |32/7 & 8|| style="background:#ffff99;" |32/9|| colspan="2" style="background:#ffff99;" |32/10 & 11|| style="background:#ffff99;" |32/12 ||
+|-
+!2009
+| colspan="2" style="background:#ffff99;"|33/1|| style="background:#ffff99;" |33/2|| colspan="2" style="background:#ffff99;" |33/3|| style="background:#ffff99;" |33/6|| colspan="2" style="background:#ffff99;" |33/7 & 8|| style="background:#ffff99;" |33/9|| colspan="2" style="background:#ffff99;" |33/10 & 11|| style="background:#ffff99;" |33/12 ||
+|-
+!2010
+| colspan="2" style="background:#ffff99;"|34/1|| style="background:#ffff99;" |34/2|| colspan="2" style="background:#ffff99;" |34/3|| style="background:#ffff99;" |34/6|| colspan="2" style="background:#ffff99;" |34/7 & 8|| style="background:#ffff99;" |34/9|| colspan="2" style="background:#ffff99;" |34/10 & 11|| style="background:#ffff99;" |34/12 ||
+|-
+!2011
+| colspan="2" style="background:#ffff99;"|35/1|| style="background:#ffff99;" |35/2|| colspan="2" style="background:#ffff99;" |35/3|| style="background:#ffff99;" |35/6|| colspan="2" style="background:#ffff99;" |35/7 & 8|| style="background:#ffff99;" |35/9|| colspan="2" style="background:#ffff99;" |35/10 & 11|| style="background:#ffff99;" |35/12 ||
+|-
+!2012
+| colspan="2" style="background:#ffff99;"|36/1|| style="background:#ffff99;" |36/2|| colspan="2" style="background:#ffff99;" |36/3|| style="background:#ffff99;" |36/6|| colspan="2" style="background:#ffff99;" |36/7 & 8|| style="background:#ffff99;" |36/9|| colspan="2" style="background:#ffff99;" |36/10 & 11|| style="background:#ffff99;" |36/12 ||
+|-
+!2013
+| colspan="2" style="background:#ffff99;"|37/1|| style="background:#ffff99;" |37/2|| colspan="2" style="background:#ffff99;" |37/3|| style="background:#ffff99;" |37/6|| colspan="2" style="background:#ffff99;" |37/7 & 8|| style="background:#ffff99;" |37/9|| colspan="2" style="background:#ffff99;" |37/10 & 11|| style="background:#ffff99;" |37/12 ||
+|-
+!2014
+| colspan="2" style="background:#ffff99;"|38/1|| style="background:#ffff99;" |38/2|| colspan="2" style="background:#ffff99;" |38/4|| style="background:#ffff99;" |38/6|| colspan="2" style="background:#ffff99;" |38/7 & 8|| style="background:#ffff99;" |38/9|| colspan="2" style="background:#ffff99;" |38/10 & 11|| style="background:#ffff99;" |38/12 ||
+|-
+!2015
+| colspan="2" style="background:#ffff99;"|39/1|| style="background:#ffff99;" |39/2|| colspan="2" style="background:#ffff99;" |39/4|| style="background:#ffff99;" |39/6|| colspan="2" style="background:#ffff99;" |39/7 & 8|| style="background:#ffff99;" |39/9|| colspan="2" style="background:#ffff99;" |39/10 & 11|| style="background:#ffff99;" |39/12 ||
+|-
+!2016
+| colspan="2" style="background:#ffff99;"|40/1|| style="background:#ffff99;" |40/2|| colspan="2" style="background:#ffff99;" |40/4|| style="background:#ffff99;" |40/6|| colspan="2" style="background:#ffff99;" |40/7 & 8|| style="background:#ffff99;" |40/9|| colspan="2" style="background:#ffff99;" |40/10 & 11|| style="background:#ffff99;" |40/12 ||
+|-
+!2017
+| colspan="2" style="background:#ffff99;"|41/1 & 2|| colspan="2" style="background:#ffff99;" |41/3 & 4|| colspan="2" style="background:#ffff99;" |41/5 & 6|| colspan="2" style="background:#ffff99;" |41/7 & 8 || colspan="2" style="background:#ffff99;" |41/9 & 10 || colspan="2" style="background:#ffff99;" |41/11 & 12 ||
+|-
+!2018
+| colspan="2" style="background:#ffff99;"|42/1 & 2|| colspan="2" style="background:#ffff99;" |42/3 & 4|| colspan="2" style="background:#ffff99;" |42/5 & 6|| colspan="2" style="background:#ffff99;" |42/7 & 8 || colspan="2" style="background:#ffff99;" |42/9 & 10 || colspan="2" style="background:#ffff99;" |42/11 & 12 ||
+|-
+!2019
+| colspan="2" style="background:#ffff99;"|43/1 & 2|| colspan="2" style="background:#ffff99;" |43/3 & 4|| colspan="2" style="background:#ffff99;" |43/5 & 6|| colspan="2" style="background:#ffff99;" |43/7 & 8 ||colspan="2" style="background:#ffff99;" |43/9 & 10 || colspan="2" style="background:#ffff99;" |43/11 & 12
+|-
+!2020
+| colspan="2" style="background:#ffff99;"|44/1 & 2|| colspan="2" style="background:#ffff99;" |44/3 & 4|| colspan="2" style="background:#ffff99;" |44/5 & 6|| colspan="2" style="background:#ffff99;" |44/7 & 8 || colspan="2" style="background:#ffff99;" |44/9 & 10 || colspan="2" style="background:#ffff99;" |44/11 & 12 ||
+|-
+!2021
+| colspan="2" style="background:#ffff99;"|45/1 & 2|| colspan="2" style="background:#ffff99;" |45/3 & 4|| colspan="2" style="background:#ffff99;" |45/5 & 6|| colspan="2" style="background:#ffff99;" |45/7 & 8 || colspan="2" style="background:#ffff99;" |45/9 & 10 || colspan="2" style="background:#ffff99;" |45/11 & 12 ||
+|-
+!2022
+| colspan="2" style="background:#ffff99;"|46/1 & 2|| colspan="2" style="background:#ffff99;" |46/3 & 4|| colspan="2" style="background:#ffff99;" |46/5 & 6|| colspan="2" style="background:#ffff99;" |46/7 & 8 || colspan="2" style="background:#ffff99;" |46/9 & 10 || colspan="2" style="background:#ffff99;" |46/11 & 12 ||
+|-
+!2023
+| colspan="2" style="background:#ffff99;"|47/1 & 2
+| colspan="2" style="background:#ffff99;"|47/3 & 4
+| colspan="2" |
+| colspan="2" |
+| colspan="2" |
+| colspan="2" |
+|
+|-
+|colspan="14" style="font-size: 8pt; text-align:left"|Issues of ''Asimov's'' from 1983 to 2022, showing volume and issue number.  The editors were Shawna McCarthy through the end of 1985 (blue), Gardner Dozois through November 2004 (green), and Sheila Williams (yellow).
+|}
+Circulation had declined from its first-year peak to about 80,000 by the time Dozois became editor.<ref>Ashley (2016), p. 441.</ref>  The [[Black Monday (1987)|1987 recession]] caused Davis Publications financial problems, and Davis decided to sell all four fiction magazines.  While he searched for a buyer, changes were made to increase profitability: two issues per year were doubled in size and increased in price.  The magazines were bought in January 1992 by [[Bantam Doubleday Dell|Bantam-Doubleday-Dell]], and became part of [[Dell Magazines]].<ref>Ashley (2022), pp. 4–5.</ref>  The title was shortened that November to ''Asimov's Science Fiction''.<ref name=":4" />
+
+In September 1996 Dell Magazines was sold to [[Penny Publications|Penny Press]].<ref>Ashley (2022), p. 14.</ref>  The schedule returned to monthly and the October and November issues were combined, so that only eleven rather than thirteen issues appeared per year.  The page count was cut, and prices increased.  In June 1998 the size was increased from a standard [[digest size]] of {{convert|7.5|x|5|in|cm|abbr=on}} to {{convert|8.25|x|5.25|in|cm|abbr=on}} to match other Penny Press magazines, which made printing and binding more efficient.  The page count dropped at the same time, but the changes were announced as an increase in total text of 10%, with no change in price.  However, a year later the price rose again.  Circulation dropped over 30% over the first four years of Penny Press's ownership, from about 46,000 to under 32,000, probably partly because of these changes.  Most of the decline was in subscription sales, though profitability was helped by subscribers who came through the magazine's website, which had been started in 1998, instead of through a third party that took a commission from the subscription price.<ref>Ashley (2022), pp. 192–194.</ref>
+
+Dozois gave up the editorship in 2004, and was succeeded by [[Sheila Williams]], whose first issue was dated December of that year.<ref name=":7">{{Cite web |last=Williams |first=Sheila |date=January 11, 2023 |title=From the Editor |url=https://www.asimovs.com/from-the-editor/ |url-status=live |archive-url=https://web.archive.org/web/20221222065331/https://www.asimovs.com/from-the-editor/ |archive-date=December 22, 2022 |access-date=January 11, 2023 |website=Asimov's Science Fiction |language=en-US}}</ref>  The number of issues per year was reduced to ten starting in 2004, with the April and May issues combined into a double-sized issue.<ref name=":4" />  In 2008 the size was increased again, to {{convert|8.5|x|5.75|in|cm|abbr=on}}, to make the magazine more prominent on newsstands.<ref name=":13">{{Cite web |last1=Ashley |first1=Mike |last2=Nicholls |first2=Peter |date=March 22, 2022 |title=SFE: Asimov's Science Fiction |url=https://sf-encyclopedia.com/entry/asimovs |url-status=live |archive-url=https://web.archive.org/web/20230321112955/https://sf-encyclopedia.com/entry/asimovs |archive-date=March 21, 2023 |access-date=July 4, 2023 |website=The Encyclopedia of Science Fiction}}</ref> From January 2017, the schedule was changed to six bimonthly double-sized issues per year.<ref name=":4" />
+
+== Contents and reception ==
+
+=== Scithers (1977–1982) ===
+[[File:GalaxyOct50rearcover.jpg|upright=2|alt=An advertisement with the following text: You'll never see it in Galaxy.  Jets blasting, Bat Durston came screeching down through the atmosphere of Bbllzznaj, a tiny planet seven billion light years from Sol. He cut out his super-hyper-drive for the landing…and at that point, a tall, lean spaceman stepped out of the tail assembly, proton gun-blaster in a space-tanned hand.  "Get back from those controls, Bat Durston," the tall stranger lipped thinly. "You don't know it, but this is your last space trip."  Hoofs drumming, Bat Durston came galloping down through the narrow pass at Eagle Gulch, a tiny gold colony 400 miles north of Tombstone. He spurred hard for a low overhang of rim-rock…and at that point a tall, lean wrangler stepped out from behind a high boulder, six-shooter in a sun-tanned hand.  "Rear back and dismount, Bat Durston," the tall stranger lipped thinly. "You don't know it, but this is your last saddle-jaunt through these here parts."  Sound alike? They should—one is merely a western transplanted to some alien and impossible planet. If this is your idea of science fiction, you're welcome to it! YOU'LL NEVER FIND IT IN GALAXY!  What you will find in Galaxy is the finest science fiction...authentic, plausible, thoughtful...written by authors who do not automatically switch over from crime waves to earth invasions; by people who know and love science fiction...for people who also know and love it.|thumb|The rear cover of the October 1950 first issue of ''Galaxy Science Fiction'', featuring a sardonic parody of bad science fiction.  This was the basis for a parody by G. Richard Bozarth that appeared in ''Asimov's'' in 1978.]]
+Asimov and Scithers agreed at the launch of the magazine on their goals for the magazine.  In an editorial in the first issue, Asimov said "we will lean toward hard science fiction, and toward the reasonably straightforward in the way of style{{nbsp}}... We will have humorous stories and we will have an occasional unclassifiable story".<ref name=":0" />  Mike Ashley, a historian of science fiction, summarizes the plans for the magazine: "It was not to be one full of stories trying to put the world to rights, nor to be full of experimental or [[New Wave science fiction|New Wave]] material."<ref name=":8" />
+
+The first issue included stories by Asimov, [[Arthur C. Clarke]], [[Jonathan Fast]], and [[Fred Saberhagen]], and an excerpt from [[Gordon R. Dickson]]'s novel ''Time Storm'' which would be published later that year.  [[John Varley (author)|John Varley]] contributed two stories: "Good-Bye, Robinson Crusoe", one of his [[Eight Worlds]] stories; and (under a pseudonym) "Air Raid", which was turned into a film, ''[[Millennium (film)|Millennium]]'', in 1989.<ref name=":8">Ashley (2007), pp. 328–337.</ref>  ''Asimov's'' soon became known for humorous stories.  The only touch of humor in the first issue was Clarke's story, "Quarantine", which was a very short story originally written to fit on a postcard, but more quickly appeared.  Two stories by Asimov based on puns appeared in the second issue, and the third issue saw the re-appearance of [[Reginald Bretnor]]'s "[[Feghoot]]" series of punning stories that had appeared in ''The Magazine of Fantasy & Science Fiction'' and ''[[Venture Science Fiction]]'' decades earlier.  More "spoofs or parodies and occasional limericks" appeared which "threatened to overshadow the more serious fiction", according to science fiction historian Mike Ashley.<ref name=":8" />  For example "Bat Durston: Space Marshal" by G. Richard Bozarth was a parody, inspired by an advertisement that had appeared on the back cover of ''[[Galaxy Science Fiction]]'' in the 1950s; Ashley points out that new readers might have thought it was intended as a serious story.  Allied with some stories clearly written for younger readers, these stories gave the impression that the magazine was not aimed at an adult audience.  [[Orson Scott Card]] commented in an early review of ''Asimov's'' that it had "tapped a juvenile market that none of the other magazines was reaching", and other reviewers made similar comments.<ref name=":8" />  As a result some writers did not submit manuscripts to ''Asimov's'' despite the competitive rates of pay.  Ashley suggests that when Dozois left the editorial staff after only a year, it was because he wanted to acquire stories that were more sophisticated than the material Scithers preferred.<ref name=":8" />{{#tag:ref|At the time ''Asimov's'' was paying six cents per word, the same rate as its competitor, ''Analog Science Fiction/Science Fact''.<ref>Ashley (2007), p. 380.</ref>|group=note}}
+
+Scithers bought the first published stories of many writers over his tenure, and his habit of announcing in the magazine when a story was a first sale may have encouraged more submissions from new writers.<ref name=":8" />  His discoveries included [[Barry Longyear]] and [[Diana L. Paxson|Diana Paxson]], and several more authors who had only just started their careers began selling regularly to Scithers, including [[John M. Ford]], [[Nancy Kress]], and [[Somtow Sucharitkul]].<ref name=":13" /><ref name=":8" />  Longyear's "Circus World" series began in the magazine, but his best-received story was "[[Enemy Mine (novella)|Enemy Mine]]", which appeared in the September 1979 issue and won both the [[Hugo Award|Hugo]] and [[Nebula Award]]s.<ref name=":8" />  Some well-established writers appeared in the magazine, despite its reputation as a juvenile market: Varley contributed "[[The Barbie Murders]]" in early 1978, and [[Michael Bishop (author)|Michael Bishop]], [[Brian Aldiss]], [[Tanith Lee]], [[Robert Silverberg]], [[Gene Wolfe]], and [[James Tiptree, Jr]], all appeared during Scither's tenure.<ref name=":8" /><ref name=":5" />  Scithers won the [[Hugo Award for Best Professional Editor]] in 1978, the first year in which he was eligible, and again in 1980.<ref>{{Cite web |date=July 26, 2007 |title=1978 Hugo Awards |url=https://www.thehugoawards.org/hugo-history/1978-hugo-awards/ |url-status=live |archive-url=https://web.archive.org/web/20230328153450/https://www.thehugoawards.org/hugo-history/1978-hugo-awards/ |archive-date=March 28, 2023 |access-date=July 4, 2023 |website=The Hugo Awards |language=en-US}}</ref><ref>{{Cite web |date=July 26, 2007 |title=1980 Hugo Awards |url=https://www.thehugoawards.org/hugo-history/1980-hugo-awards/ |url-status=live |archive-url=https://web.archive.org/web/20230531042046/https://www.thehugoawards.org/hugo-history/1980-hugo-awards/ |archive-date=May 31, 2023 |access-date=July 4, 2023 |website=The Hugo Awards |language=en-US}}</ref>
+
+''Asimov's'' readership included many who were new to the field, and many more who had given up on the other major science fiction magazines. This combination was a good fit for Scithers's approach: traditional stories, without sex or profanity: "nothing too challenging or revolutionary", in Ashley's words.<ref name=":8" />{{#tag:ref|Science fiction, which has its genre roots in the 1920s and 1930s in the [[pulp magazine]] era, was puritanical for a long time.  Sex scenes and profanity rarely appeared until the 1950s.  The change accelerated in the 1960s.<ref>{{Cite web |last=Nicholls |first=Peter |date=October 3, 2022 |title=SFE: Sex |url=https://sf-encyclopedia.com/entry/sex |url-status=live |archive-url=https://web.archive.org/web/20230318101442/https://sf-encyclopedia.com/entry/sex |archive-date=March 18, 2023 |access-date=August 23, 2023 |website=Encyclopedia of Science Fiction}}</ref><ref>{{Cite web |last1=Nicholls |first1=Peter |last2=Ashley |first2=Mike |date=February 20, 2023 |title=SFE: Pulp |url=https://sf-encyclopedia.com/entry/pulp |url-status=live |archive-url=https://web.archive.org/web/20230410171944/https://sf-encyclopedia.com/entry/pulp |archive-date=April 10, 2023 |access-date=August 24, 2023 |website=Encyclopedia of Science Fiction}}</ref>|group=note}}  Some veteran science fiction writers such as [[L. Sprague de Camp]], [[Hal Clement]], and [[Jack Williamson]] fit in well with Scithers's constraints, producing material that could have been printed in a 1950s magazine, but [[Frederik Pohl]]'s "Like unto the Locust", which appeared in 1979, did not.  Letters poured in objecting to the profanity that appeared in the story.<ref name=":8" />  Scithers responded: "... we want to apologize for not copy-editing this installment as well as we should.  It's not our intention to use language quite that strong when we (and the authors) can avoid doing so."<ref name=":13" /><ref name=":8" />  Evidence from circulation figures suggest that longtime readers of science fiction were becoming a smaller percentage of ''Asimov's'' readership, and Ashley describes the result as stagnation: Scithers's had "dumbed down" the material to please the new readers ''Asimov's'' was attracting, but as a result the magazine was becoming isolated within the field.<ref name=":8" />  [[John Shirley]] criticized the magazine in 1979 as "a fog of predictability, formula, and done-to-death techno-bullshit imagery", adding a year later that Scithers was playing it safe, "And when you're ''that'' safe, you're schlock{{nbsp}}....  People think that this is science fiction and I fear that it is a major neutralizing influence on the field."<ref name=":8" />  Ashley argues that the magazine's success cannot be ascribed only to the unchallenging fiction it printed; Asimov's name drew in many fans of his books, and Davis Publications' marketing experience helped as well.<ref name=":8" />
+
+Although Asimov had no editorial role, he was named the magazine's editorial director and wrote many editorials for it.<ref name=":13" />  A puzzle column by [[Martin Gardner]] began in the first issue.<ref name=":13" /><ref name=":14" />  A book review column, by [[Charles N. Brown]], followed in the second issue;<ref name=":13" /><ref name=":14">{{Cite web |last=Stephensen-Payne |first=Phil |date=July 4, 2023 |title=Magazine Contents Lists: Page 270 |url=http://www.philsp.com/homeville/SFI/k00270.htm#A10 |url-status=dead |archive-url=https://web.archive.org/web/20230704234407/http://www.philsp.com/homeville/SFI/k00270.htm#A10 |archive-date=July 4, 2023 |access-date=July 4, 2023 |website=Galactic Central}}</ref> Brown was replaced by [[Baird Searles]] in May 1979.<ref name=":13" />
+
+=== Moloney (1982) ===
+Moloney had no background in science fiction, but soon realized that Asimov's name was a significant asset.  She persuaded Asimov to submit his [[Azazel (Asimov)|Azazel]] stories, which he had begun publishing in the competing magazines, to ''Asimov's'', starting with "To the Victor" in July 1982.  Moloney added two non-fiction columns: a profile of a writer, often written by [[Charles Platt (author)|Charles Platt]], and an opinion column called Viewpoint.  A cartoon series, "Mooney's Module", began, and she commissioned crosswords from [[Merl Reagle]].  Reader reaction was mixed, some letters complaining about the non-fiction columns taking up space that could have been used for another story.<ref name=":5" />  Moloney's impact on the fiction was limited; negative author reaction to her habit of heavily editing their manuscripts, and advice from McCarthy, led to her giving McCarthy a good deal of control over the fiction.  Two well-known stories published during Moloney's tenure were [[Connie Willis]]'s "[[A Letter from the Clearys]]", and [[David Brin]]'s "The Postman", which later formed the basis of [[The Postman|a novel]] and [[The Postman (film)|film of the same name]].<ref name=":5" />
+
+=== McCarthy (1983–1985) ===
+McCarthy took over fully as editor with Moloney's departure at the end of 1982.  The February 1983 issue, the second one with McCarthy's name on the masthead, included [[Greg Bear]]'s novella "[[Hardfought]]", which went on to win the [[Nebula Award for Best Novella|Nebula Award]].  McCarthy was willing to expand the range of fiction the magazine published, and most readers who wrote in agreed that the prohibition on sex and violence could be relaxed, but Davis Publications did not want to risk alienating the young readers whom they knew formed part of the magazine's audience.  McCarthy was unable to resolve this conflict for Connie Willis's "All My Darling Daughters", a story featuring "lesbianism and bestiality and incest", in Willis's words, and it never saw print in ''Asimov's'', appearing in Willis's short story collection ''Fire Watch'' instead.  McCarthy continued to be open to a broader range of fiction than Scithers had been, and at the end of the year published [[Leigh Kennedy]]'s "[[Her Furry Face]]", with a plot that involved sex with an intelligent [[orangutan]].  Two stories in the next issue featuring street violence: [[Norman Spinrad]]'s "Street Meat", and [[Octavia E. Butler|Octavia Butler]]'s "Speech Sounds".  McCarthy introduced "Street Meat" by saying "What follows is not for the faint of heart."  Kennedy's story led to many complaints and canceled subscriptions, and McCarthy was asked by Davis to be cautious in future, but the stories were well received: "Speech Sounds" won that year's short story Hugo Award and "Her Furry Face" was nominated for the Nebula Award.  Asimov defended the publication of "Her Furry Face" in a subsequent editorial.  McCarthy commented afterwards that "the long-time Asimov fans were shocked and we hadn't gotten enough new readers yet".<ref name=":9">Ashley (2016), pp. 26–36.</ref>  Other stories from McCarthy's first year in charge included Dozois's "The Peacemaker", in the August 1983 issue, which won the Nebula Award.<ref name=":9" />
+
+Well-received stories from 1984, McCarthy's second year in charge, included [[Lucius Shepard]]'s "A Traveler's Tale", [[John Kessel]]'s "The Big Dream", and Varley's "[[Press Enter|Press Enter■]]", which won both the Hugo and Nebula Awards.  Ashley singles out Octavia Butler's "Bloodchild", in the June 1984 issue, as "arguably the single most important story publiished during McCarthy's editorship".<ref name=":9" />  The story was about a race of insectoid aliens.  The human protagonist has a relationship with one of the aliens, and agrees to allow the alien to lay their eggs in his body.  "Bloodchild" won the Hugo and Nebula Awards and appeared in all that year's "Best of Science Fiction" anthologies.  Reader reaction in ''Asimov's'' was positive, and a 1995 review of Butler's collection ''[[Bloodchild and Other Stories]]'' described the story as "one of the genre's undisputed classics".<ref name=":9" />
+
+McCarthy's effect on the magazine was quickly noticed.  Dozois's summary of 1983 in science fiction commented that "If there was an award for the most dramatically improved magazine of the year, it would have to go to ''Isaac Asimov's Science Fiction Magazine'', and the credit for that sea change seems to belong almost entirely to new editor Shawna McCarthy."<ref name=":9" />  Writers began to make ''Asimov's'' their first market to submit to, and 1985 saw more award-winning stories as a result: Pohl's "Fermi and Frost"; Silverberg's "Sailing to Byzantium"; [[Roger Zelazny]]'s "24 Views of Mount Fuji, by Hokusai"; and "Portraits of His Children", by [[George R. R. Martin]].  For the three years that McCarthy edited, ''Asimov's'' dominated the annual science fiction awards, accounting for almost a third of the nominations for [[Hugo Award|Hugo]], [[Nebula Award|Nebula]], and [[Locus Awards]], and inclusions in the annual "Year's Best" anthologies.<ref name=":9" />
+
+McCarthy discovered or encouraged many new writers, including [[Mary Gentle]], [[Nina Kiriki Hoffman]], [[Paul J. McAuley]], and [[Karen Joy Fowler]].<ref name=":9" />  She won the [[Hugo Award for Best Professional Editor]] in 1984.<ref>{{Cite web |date=July 26, 2007 |title=1984 Hugo Awards |url=https://www.thehugoawards.org/hugo-history/1984-hugo-awards/ |url-status=live |archive-url=https://web.archive.org/web/20230423043747/https://www.thehugoawards.org/hugo-history/1984-hugo-awards/ |archive-date=April 23, 2023 |access-date=July 4, 2023 |website=The Hugo Awards |language=en-US}}</ref>
+
+=== Dozois (1986–2004) ===
+[[File:GardnerDozoisCW98 wb (cropped).jpg|alt=A headshot of a smiling man wearing glasses|thumb|Gardner Dozois]]
+When Dozois took over the editorship of ''Asimov's'', McCarthy's work had changed the image of the magazine, and Dozois worked to solidify the impression that, in Ashley's words, "''Asimov's'' was where the 'cutting edge' work in the field was appearing, so that authors would be eager to appear there".<ref name=":10">Ashley (2016), pp. 71–80.</ref>  Dozois's tenure began as [[cyberpunk]] (a subgenre of science fiction focused on the consequences of virtual reality and computer technology<ref>{{Cite web |last=Nicholls |first=Peter |title=SFE: Cyberpunk |url=https://sf-encyclopedia.com/entry/cyberpunk |url-status=live |archive-url=https://web.archive.org/web/20221122150600/https://sf-encyclopedia.com/entry/cyberpunk |archive-date=November 22, 2022 |access-date=January 13, 2023 |website=The Encyclopedia of Science Fiction}}</ref>) was becoming more popular, and cyberpunk fiction soon appeared: in January 1986, Dozois serialized [[William Gibson]]'s ''[[Count Zero]]'', the sequel to Gibson's debut novel, ''[[Neuromancer]]'', and he also printed [[Pat Cadigan]]'s "Pretty Boy Crossover".<ref>Ashley (2016), pp. 46–50.</ref>  ''Asimov's'' did not focus solely on cyberpunk, though; Dozois printed a wide variety of speculative fiction.  Stories from Dozois's first year include Lucius Shepard's "R&R", which won the Nebula; [[Orson Scott Card]]'s "Hatrack River", which won the World Fantasy Award; and [[Kate Wilhelm]]'s "The Girl Who Fell From the Sky", which won a Nebula.  [[Pat Murphy (writer)|Pat Murphy]] and [[Kim Stanley Robinson]] began selling regularly to Dozois; Murphy's "[[Rachel in Love]]", in the April 1987 issue, about a teenage girl's personality in a chimpanzee's body, won a Nebula and a Locus Award, and Robinson's "[[The Blind Geometer]]", in the August issue, also won a Nebula.<ref name=":10" />
+
+''Asimov's'' had never run serials before ''Count Zero'', and there was some resistance from the readers, since in most cases the novel would also be published in book form.  Dozois persisted for a while, with [[Michael Swanwick]]'s ''[[Vacuum Flowers]]'' beginning serialization in the Mid-December 1986 issue.  [[Harlan Ellison]]'s script for a film based on Asimov's robot short stories was serialized at the end of 1987 as ''I Robot: The Movie'', and Swanwick's ''[[Stations of the Tide]]'' ran in the Mid-December 1990 and January 1991 issues, but those were the last to appear.<ref name=":10" />
+
+A regular feature of the magazine was a long novella as the lead story.  Orson Scott Card's "Eye for Eye", which won a Hugo, appeared in this slot, as did [[Megan Lindholm]]'s "A Touch of Lavender", voted the most popular novella of 1989 by ''Asimov's'' readers.<ref name=":10" />  Dozois also published shorter fiction: short stories from Dozoi's tenure at ''Asimov's'' that won the Hugo or Nebula awards include [[Suzy McKee Charnas]]'s "[[Boobs (short story)|Boobs]]" (1989), [[Terry Bisson]]'s "[[Bears Discover Fire]]" (1990), and Michael Swanwick's "[[The Very Pulse of the Machine]]".<ref name=":13" />  Newer writers discovered by Dozois included [[Allen Steele]] and [[Mary Rosenblum]], but overall the number of new writers appearing in the magazine fell.  Ashley suggests this was because the magazine's reputation was now high, and Dozois received hundreds of manuscripts a week, making it harder for new authors to break through.<ref name=":10" />
+
+In 2004, ''Asimov's'' was included in a list of magazines available for school fundraising drives.  The mother of a 13-year-old girl who bought a copy complained about the magazine, which contained strong language and other material she objected to, and the complaint led to some negative news coverage, described by the ''Encyclopedia of Science Fiction'' as "over-sensationalized".<ref name=":13" /><ref>{{Cite web |date=February 13, 2004 |title=Adult magazine part of school fundraiser |url=http://woodtv.com/Global/story.asp?S=1645394&nav=0RclKpQF |archive-url=https://web.archive.org/web/20050427074736/http://woodtv.com/Global/story.asp?S=1645394&nav=0RclKpQF |archive-date=April 27, 2005 |access-date=July 6, 2023 |website=Wood TV8}}</ref>
+
+[[Paul Di Filippo|Paul DiFilippo]] and Peter Heck took over the book reviews from Baird Searles in 1994, and Spinrad began contributing critical essays.  A column on [[role-playing games]], by [[Matthew Costello]], began in 1996 and lasted for four years.<ref name=":13" />  [[James Patrick Kelly]] and Robert Silverberg both began contributing columns during Dozois's tenure; Kelly's column, "On the Net", began in 1998, and Silverberg's "Reflections" started in the July 1994 issue.<ref name=":13" />  Silverberg's column had originally begun in ''Galileo'', in 1978, and had moved to ''[[Amazing Stories]]'' from 1981 to 1994.  It is still running in ''Asimov's'' as of 2023.<ref name=":13" /><ref>{{Cite web |last=Stephensen-Payne |first=Phil |date=July 4, 2023 |title=Magazine Contents Lists: Page 314 |url=http://www.philsp.com/homeville/SFI/k00314.htm#A4 |url-status=dead |archive-url=https://web.archive.org/web/20230704162424/http://www.philsp.com/homeville/SFI/k00314.htm#A4 |archive-date=July 4, 2023 |access-date=July 4, 2023 |website=Galactic Central}}</ref>
+
+Dozois's editorship was well regarded in the field.  Dozois won the Hugo Award for best professional editor every year from 1988 to 2004 with only two exceptions, in 1994 and 2002,<ref name=":10" /> and Ashley describes his time at ''Asimov's'' as "one of the greatest of all editorial careers".<ref name=":6" />  Dozois made Asimov into "the most important magazine of its generation", according to the ''Encyclopedia of Science Fiction'', which comments that Dozois's success "stimulated the sf field to rebuild and regenerate itself after the identity crises it had gone through in the 1960s and 1970s".<ref name=":13" />  In 2014 [[Gary Westfahl]] praised the "creative editors of the 1980s and 1990s, such as Gardner Dozois of ''Asimov's Science Fiction'' and [[Gordon Van Gelder]] of ''The Magazine of Fantasy and Science Fiction''", but added that "such editors were no longer the most important figures in the field".<ref>Westfahl (2014), p. 87.</ref>
+
+=== Williams (2004 – present) ===
+In Williams' first editorial, in the January 2005 issue, she made it clear she did not plan to make dramatic changes to the approach established by McCarthy and Dozois.  Williams reinstated the letter column, and began an intermittent non-fiction column, "Thought Experiments", starting with a reminiscence by [[Roger Ebert]] of his involvement in science fiction fandom.  To mark the 30th anniversary of the magazine in 2007, she published a [[Asimov's Science Fiction: 30th Anniversary Anthology|30th Anniversary Anthology]].<ref>{{Cite web |title=Asimov's Science Fiction Magazine 30th Anniversary Anthology, The |url=https://tachyonpublications.com/product/the-asimovs-sf-30th-anniversary-anthology/ |access-date=2023-11-01 |website=Tachyon Publications |language=en-US}}</ref><ref>{{Cite book |title=Asimov's Science Fiction Magazine 30th Anniversary Anthology |date=2007-07-01 |publisher=Tachyon Publications |isbn=978-1-892391-47-6 |editor-last=Williams |editor-first=Sheila |edition=1st |language=English}}</ref><ref>{{Cite book |url=http://archive.org/details/asimovssciencefi0000unse |title=Asimov's science fiction : 30th anniversary anthology |date=2007 |location=San Francisco |publisher=Tachyon Publications |others=Internet Archive |isbn=978-1-892391-47-6}}</ref>
+
+She won the Hugo Award for short-form editor in 2011 and 2012.<ref>Ashley (2022), pp. 199–200.</ref>
+
+== Bibliographic details ==
+[[File:Asimovs Science Fiction magazine circulation.png|alt=Graph showing circulation falling from over 100,000 in 1977–1978 to under 20,000 by 2020, with digital subscriptions accounting for over half of the total by 2020.|right|thumb|upright=2.5|Paid circulation figures.  No data is available for 1979–1980.  The first few years of digital subscription numbers are estimated.]]The editorial succession at ''Asimov's'' is as follows:
+* [[George H. Scithers]], Spring 1977 – February 15, 1982<ref name=":0" /><ref name=":3" />
+* Kathleen Moloney, March 15, 1982–Mid-December 1982<ref name=":5" />
+* [[Shawna McCarthy]], January 1983 – December 1985<ref name=":5" /><ref name=":6" />
+* [[Gardner Dozois]], January 1986–October/November 2004<ref name=":6" /><ref name=":7" />
+* [[Sheila Williams]], December 2004–present as of October 2023<ref name=":7" />
+The title was originally ''Isaac Asimov's Science Fiction Magazine''; it was changed to ''Asimov's Science Fiction'' with the November 1992 issue.  ''Asimov's'' has been digest-sized throughout its history, though the size was increased slightly with the June 1998 issue to conform with the publisher's other magazines.  The first issue was 196 pages; issues since then have varied between 112 pages up to (for the double issues) 288 pages.  The price was originally $1.00, and has since risen frequently.  As of 2023 each double issue is priced at $8.99.<ref name=":11" /><ref name=":12" />
+
+=== Publishers ===
+
+* [[Davis Publications]] (1977–1992)<ref>{{Cite web |title=History |url=https://www.asimovs.com/about-asimovs/history/ |access-date=2023-11-01 |website=Asimov's Science Fiction |language=en-US |first1=Sheila |last1=Williams }}</ref>
+* [[Dell Magazines]] (1992–1996) – owned by [[Dell Publishing]]<ref>{{Cite news |last=Carmody |first=Deirdre |date=1992-01-24 |title=THE MEDIA BUSINESS; Dell Buys Four Noted Fiction Magazines |language=en-US |work=The New York Times |url=https://www.nytimes.com/1992/01/24/business/the-media-business-dell-buys-four-noted-fiction-magazines.html |access-date=2023-11-01 |issn=0362-4331}}</ref>
+* Dell Magazines (1996 – present) – owned by [[Penny Publications]] in Connecticut.<ref>{{Cite news |last=Press |first=The Associated |date=1996-03-12 |title=Dell Is Selling Magazine Unit |language=en-US |work=The New York Times |url=https://www.nytimes.com/1996/03/12/business/dell-is-selling-magazine-unit.html |access-date=2023-11-01 |issn=0362-4331}}</ref> The magazine shares offices with other Dell magazines, including ''[[Alfred Hitchcock's Mystery Magazine]], [[Analog Science Fiction and Fact]],'' and  [[Ellery Queen's Mystery Magazine|''Ellery Queen Mystery Magazine'']].
+
+=== Anthologies ===
+A series of five anthologies was issued under the series title ''Asimov's Choice'', selected from the 1977 and 1978 issues.  All were edited by Scithers: the titles were  ''Astronauts & Androids, Black Holes & Bug-Eyed Monsters, Comets & Computers'',  ''Dark Stars & Dragons'', and ''Extraterrestrial & Eclipses''.<ref name=":2" />  Another series, titled ''Isaac Asimov's Science Fiction Anthology'', followed, with volume 1 appearing in 1979, and the eighth and final volume in 1983.<ref name=":2" /><ref name=":12" />  An anonymously edited anthology appeared in 1986, titled ''Asimov's Choice''.  Dozois edited ''The Best of Isaac Asimov's Science Fiction Magazine'' (1988); ''Transcendental Tales from Isaac Asimov's Science Fiction Magazine'' (1989); ''Isaac Asimov's Mars'' (1991); and ''Isaac Asimov's SF Lite'' (1993). Dozois and Williams jointly edited ''Isaac Asimov's Robots'' (1991) and ''Isaac Asimov's Earth'' (1992).  Williams edited three short anthologies made available only to subscribers: ''Isaac Asimov's Puzzle'' (1984); ''Science Fiction by Asimov'' (1986); and ''Robots From Asimov's'' (1990).<ref>Sanders (1995), pp. 701–702.</ref>
+
+Martin Gardner's puzzles from the first few years of the magazine were collected in three volumes: ''Science Fiction Puzzle Tales'', ''Puzzles from Other Worlds: Fantastical Brainteasers from Isaac Asimov's Science Fiction Magazine'', and ''Riddles of the Sphinx and Other Mathematical Puzzle Tales''.<ref>{{Cite web |last1=Clute |first1=John |last2=Sleight |first2=Graham |last3=Eggeling |first3=John |last4=Langford |first4=Dave |date=September 12, 2022 |title=SFE: Gardner, Martin |url=https://sf-encyclopedia.com/entry/gardner_martin |access-date=July 4, 2023 |website=The Encyclopedia of Science Fiction |archive-date=July 5, 2023 |archive-url=https://web.archive.org/web/20230705000206/https://sf-encyclopedia.com/entry/gardner_martin |url-status=live }}</ref>  Some of Spinrad's critical essays for ''Asimov's'', along with a couple of essays from other sources, were collected in ''Science Fiction in the Real World'' (1990).<ref>Spinrad (1990), p. xiii.</ref>
+
+=== Overseas editions ===
+There have been multiple overseas editions of ''Asimov's''.<ref name=":13" />
+{| class="wikitable sortable"
+|+
+!Country
+!Title
+!Publisher
+!Editor
+!Dates
+!Issues
+!Additional sources
+|-
+|Brazil
+|''Isaac Asimov Magazine''
+|
+|
+|June 1990 – January 1993
+|25
+|
+|-
+|Czech Republic
+|''Asimov's''
+|
+|
+|August 1996 – October 1997
+|15
+|
+|-
+|Greece
+|''Asimov's Science Fiction''
+|
+|Yiannis Karaiosifoglou
+|October 1997 – December 1997
+|3
+|<ref>{{Cite journal |last=Pastourmatzi |first=Domna |date=1999 |title=Hellenic Magazines of Science Fiction |url=https://www.jstor.org/stable/4240816 |journal=Science Fiction Studies |volume=26 |issue=3 |pages=412–430 |jstor=4240816 |issn=0091-7729 |access-date=July 5, 2023 |archive-date=July 5, 2023 |archive-url=https://web.archive.org/web/20230705221605/https://www.jstor.org/stable/4240816 |url-status=live }}</ref>
+|-
+|Israel
+|''Cosmos''
+|Atid
+|D. Kol
+|1979
+|6
+|<ref>Ashley (2007), p. 420.</ref>
+|-
+|Italy
+|''La Rivista di Isaac Asimov''
+|[[Arnoldo Mondadori Editore|Mondadori]]
+|
+|Spring 1978 – November 1980
+|11
+|
+|-
+|Italy
+|''La Rivista di Isaac Asimov''
+|SIAD Edizione
+|
+|September 1981 – February 1983
+|16
+|
+|-
+|Italy
+|''La Rivista di Isaac Asimov''
+|Telemaco
+|
+|January 1993 – September 1993
+|6
+|
+|-
+|Italy
+|''La Rivista di Isaac Asimov''
+|Phoenix Enterprise
+|
+|May 1994 – July 1995
+|15
+|
+|-
+|Japan
+|''SF Hoseki''
+|[[Kobunsha]]
+|Hisanori Tanaguchi
+|August 1979 – June 1981
+|12
+|<ref>Ashley (2007), p. 423.</ref>
+|-
+|Poland
+|''Isaac Asimov's Science Fiction Magazine''
+|Temark
+|Anna Calikowska, Michał Wroczyński, & Adam Zembrzycki
+|December 1991 – November 1992
+|10
+|<ref>{{Cite web |date=July 6, 2023 |title=Isaac Asimov's Science Fiction Magazine / red. Anna Calikowska, Michał Wroczyński, Adam Zembrzycki. |url=https://katalogi.bn.org.pl/permalink/48OMNIS_NLOP/1aot9i7/alma991022256869705066 |access-date=July 6, 2023 |website=Biblioteka Narodowa |language=pl |archive-date=August 20, 2023 |archive-url=https://web.archive.org/web/20230820005249/https://katalogi.bn.org.pl/discovery/fulldisplay?&context=L&vid=48OMNIS_NLOP:48OMNIS_NLOP&search_scope=NLOP_IZ_NZ&tab=LibraryCatalog&docid=alma991022256869705066 |url-status=live }}</ref>
+|-
+|Spain
+|''Isaac Asimov's revista de ciencia ficción''
+|Ediciones Picazo
+|
+|December 1979 – March 1981
+|12
+|<ref name=":15">Barcelo (2015), search for "Isaac Asimov's Science Fiction Magazine"</ref>
+|-
+|Spain
+|''Isaac Asimov – Revista de Ciencia Ficción''
+|[[Planeta DeAgostini|Planeta-Agostini]]
+|Carlo Frabetti (first 11 issues)
+[[Domingo Santos]] (last four issues)
+|February 1986 – April 1987
+|15
+|<ref name=":15" />
+|-
+|Spain
+|''Asimov Ciencia Ficción''
+|Editorial Robal
+|Domingo Santos
+|October 2003 – November/December 2005
+|21
+|<ref name=":15" />
+|}
+There have been no German magazine versions of ''Asimov's'', but a series of anthologies from the magazine began in 1978.<ref name=":13" />
+
+== Notes ==
+{{reflist|group=note}}
+
+== References ==
+<references />
+
+== Sources ==
+
+* {{cite book |last=Ashley |first=Mike |url=https://archive.org/details/gatewaystoforeve0000ashl |title=Gateways to Forever: The Story of the Science-Fiction Magazines from 1970 to 1980 |publisher=Liverpool University Press |year=2007 |isbn=978-1-84631-003-4 |location=Liverpool |ref=none |author-link=Mike Ashley (writer) |url-access=registration}}
+* {{cite book |last=Ashley |first=Mike |title=Science Fiction Rebels: The Story of the Science-Fiction Magazines from 1981 to 1990 |publisher=Liverpool University Press |year=2016 |isbn=978-1-78138-260-8 |location=Liverpool |ref=none |author-link=Mike Ashley (writer)}}
+* {{cite book |last=Ashley |first=Mike |title=The Rise of the Cyberzines: The Story of the Science-Fiction Magazines from 1991 to 2020 |publisher=Liverpool University Press |year=2022 |isbn=978-1-80085-648-6 |location=Liverpool |ref=none |author-link=Mike Ashley (writer)}}
+* {{cite book |last=Asimov |first=Isaac |title=In Joy Still Felt: The Autobiography of Isaac Asimov 1954-1978 |publisher=Liverpool University Press |year=1980 |isbn= |edition=Book Club |location=New York |ref=none |author-link=Isaac Asimov}}
+* {{Cite book |last=Barcelo |first=Miquel |url=https://books.google.com/books?id=RY5OCgAAQBAJ |title=Ciencia Ficción. Nueva guía de lectura |date=2015-09-16 |publisher=Penguin Random House Grupo Editorial España |isbn=978-84-9069-162-5 |language=es |trans-title=Science Fiction. New Reading Guide |ref=none}}
+* {{Cite book |last=Sanders |first=Joe |title=Anatomy of Wonder 4: A Critical Guide to Science Fiction |publisher=R. R. Bowker |year=1995 |isbn=0-8352-3288-3 |editor-last=Barron |editor-first=Neil |location=New Providence, New Jersey |pages=690–714 |chapter=Science Fiction Magazines |ref=none |chapter-url=}}
+* {{cite book |last=Spinrad |first=Norman |title=Science Fiction in the Real World |publisher=Southern Illinois University Press |year=1990 |isbn=0-8093-1671-4 |location=Carbondale, Illinois |ref=none |author-link=Norman Spinrad}}
+* {{cite book |last=Westfahl |first=Gary |title=The Oxford Handbook of Science Fiction |publisher=Oxford University Press |year=2014 |isbn=978-0-19-983884-4 |editor-last=Latham |editor-first=Rob |location=New York |pages=81–92 |chapter=The Marketplace |ref=none |author-link=Gary K. Wolfe}}
+{{CurrentAmericanSFMagazines}}
+{{Dell Magazines}}
+
+[[Category:1977 establishments in the United States]]
+[[Category:Science fiction magazines published in the United States]]
+[[Category:Monthly magazines published in the United States]]
+[[Category:Isaac Asimov]]
+[[Category:Magazines established in 1977]]
+[[Category:Science fiction digests]]
+[[Category:Science fiction magazines established in the 1970s]]
+[[Category:Magazines published in Connecticut]]
+[[Category:Penny Publications magazines]]

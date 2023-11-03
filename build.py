@@ -39,13 +39,13 @@ if sys.platform != "win32":
 	activate_command = f". {activate_command}"
 
 # Install requirements
-#print("Installing requirements...")
-#print("Upgrading pip...")
-#install_command = f"{activate_command} && python -m pip install --upgrade pip"
-#return_code = run_command(install_command)
-#if return_code != 0:
-#	print("Failed to install requirements.")
-#	sys.exit(1)
+print("Installing requirements...")
+print("Upgrading pip...")
+install_command = f"{activate_command} && python -m pip install --upgrade pip"
+return_code = run_command(install_command)
+if return_code != 0:
+	print("Failed to install requirements.")
+	sys.exit(1)
 
 print("Installing wheel...")
 install_command = f"{activate_command} pip install wheel"
@@ -66,13 +66,14 @@ with open("req.txt", "w") as f:
 	# f.write("clu\n")
 	f.write("matplotlib\n")
 	# f.write("flax\n")
-	f.write("datasets\n")
-	f.write("joblib\n")
+	f.write("apache_beam\n")
+	# f.write("joblib\n")
 	f.write("tokenizers\n")
 	f.write("openai\n")
 	f.write("rich\n")
 	f.write('python-dotenv\n')
 	f.write("transformers\n")
+	f.write("mwparserfromhell\n")
 
 install_command = f"{activate_command} && pip install -r req.txt"
 return_code = run_command(install_command)
@@ -83,3 +84,10 @@ if return_code != 0:
 
 print("Requirements installed successfully.")
 print("Project setup complete.")
+
+print("Installing Datasets...")
+install_command = f"{activate_command} && pip install datasets"
+return_code = run_command(install_command)
+if return_code != 0:
+	print("Failed to install requirements.")
+	sys.exit(1)
