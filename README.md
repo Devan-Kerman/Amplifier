@@ -1,8 +1,8 @@
 # Amplifier
 
 ---
-An engine to enhance/compliment LLMs to enable complex reasoning/logic, explainability, and steerability.
+~~An engine to enhance/compliment LLMs to enable complex reasoning/logic, explainability, and steerability.
 The purpose of this project is to explore the potential for incremental problem-solving in LLMs through more rigidly
-defined reasoning loops.
+defined reasoning loops.~~
 
-# This project is on hold until I finish some pre-requisite software
+This project has been superceded by a completely different idea
